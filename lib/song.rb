@@ -12,10 +12,6 @@ class Song
     @@all
   end
   
-  def name
-    @name
-  end
-  
   def artist (artist)
     @artist = artist
   end
